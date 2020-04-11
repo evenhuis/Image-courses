@@ -9,3 +9,5 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+
+include: ["_pages"] 

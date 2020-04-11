@@ -1,7 +1,6 @@
 ---
 title: "Introduction"
-layout: archive
-permalink: /Introduction/
+type: pages
 ---
 
 # What is an image
@@ -13,8 +12,6 @@ Goals:
 * How to open images in Fiji
 * Navigating, viewing and inspecting images 
 
-<div class="myvideo">
-   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
-       <source src="{{ site.baseurl }}_posts/What-is-an-image/Intro.mp4" type="video/mp4" />
-   </video>
-</div>
+<video width="480" height="320" controls="controls">
+  <source src="Intro.mp4" type="video/mp4">
+</video>
