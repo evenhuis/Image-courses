@@ -7,3 +7,4 @@ Goals:
 * How to open images in Fiji
 * Navigating, viewing and inspecting images 
 
+![Intro](Intro.mp4)
