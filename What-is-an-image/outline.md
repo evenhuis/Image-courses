@@ -7,3 +7,8 @@ Goals:
 * How to open images in Fiji
 * Navigating, viewing and inspecting images 
 
+<div class="myvideo">
+   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+       <source src="{{ site.baseurl }}/What-is-an-image/Intro.mp4" type="video/mp4" />
+   </video>
+</div>
