@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
 layout: archive
-permalink: /Introduction
+permalink: /Introduction/
 ---
 
 # What is an image
@@ -15,6 +15,6 @@ Goals:
 
 <div class="myvideo">
    <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
-       <source src="{{ site.baseurl }}/What-is-an-image/Intro.mp4" type="video/mp4" />
+       <source src="{{ site.baseurl }}_posts/What-is-an-image/Intro.mp4" type="video/mp4" />
    </video>
 </div>
