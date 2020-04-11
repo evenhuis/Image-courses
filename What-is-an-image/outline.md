@@ -7,6 +7,8 @@ Goals:
 * How to open images in Fiji
 * Navigating, viewing and inspecting images 
 
-<video width="618" height="347" controls preload> 
-    <source src="Intro.mp4" media="only screen and (min-device-width: 568px)"></source>
-</video>
+<div class="myvideo">
+   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+       <source src="{{ site.baseurl }}/What-is-an-image/Intro.mp4" type="video/mp4" />
+   </video>
+</div>
