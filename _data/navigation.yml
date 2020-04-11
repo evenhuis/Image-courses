@@ -1,3 +1,9 @@
 main:
-  - title: "What is an image?"
-    url: /What-is-an-image/outline.md
+  - title: "What is an image"
+    url: ./_pages/What-is-an-image/
+
+what-is-an-image:
+  - title: "Introduction"
+    url: ./_pages/What-is-an-image/Introduction
+  - title: "Images as spreadsheets"
+    url: ./_pages/What-is-an-image/Images-as-spreadsheets

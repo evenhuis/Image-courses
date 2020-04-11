@@ -1,17 +1,15 @@
 ---
-title: "Introduction"
+title: "What is an image?"
 type: pages
+layout: single
+sidebar:
+  - title: "What is an image?"
+    image: icon.jpg
+    text: "Some text here."
+    nav: main
 ---
 
-# What is an image
-Goals:
+### [Introduction](Introduction/index.md)
 
-* Learn to think about images like a computer does
-* Common types of images 
-* How images are displayed
-* How to open images in Fiji
-* Navigating, viewing and inspecting images 
+### [Images as spreadsheets](Images-as-spreadsheets/index.md)
 
-<video width="480" height="320" controls="controls">
-  <source src="Intro.mp4" type="video/mp4">
-</video>
