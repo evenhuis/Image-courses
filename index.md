@@ -3,5 +3,5 @@ layout: home
 author_profile: true
 ---
 
-## [What is an image?](What-is-an-image/outline.md)
+## [What is an image?](_pages/What-is-an-image/index.md)
 
