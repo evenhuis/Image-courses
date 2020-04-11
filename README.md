@@ -1,3 +1,3 @@
 
-##[What is an image?](What-is-an-image/outline.md)
+## [What is an image?](What-is-an-image/outline.md)
 
