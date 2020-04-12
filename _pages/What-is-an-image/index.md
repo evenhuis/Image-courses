@@ -4,9 +4,9 @@ type: pages
 layout: single
 sidebar:
   - title: "What is an image?"
-    image: icon.jpg
+    image: assets/images/cell_1.jpg
     text: "Some text here."
-    nav: main
+    nav: what-is-an-image
 ---
 
 ### [Introduction](Introduction/index.md)

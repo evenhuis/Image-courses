@@ -1,8 +1,17 @@
 ---
-layout: home
-author_profile: true
+layout: splash
+header:
+  #overlay_color: "#000"
+  #overlay_filter: "0.5"
+  overlay_image: assets/images/splash_1.jpg
+sidebar:
+  - title: "MIF workshops"
+    nav: main
+
 ---
 
-## [What is an image?](./_pages/What-is-an-image/index.md)
+## MIF workshops
+
+A series of workshops run in the Microbial Imaging Facilty.
 
 

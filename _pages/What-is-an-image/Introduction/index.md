@@ -4,7 +4,7 @@ type: posts
 layout: single
 sidebar:
   - title: "Introduction"
-    image: icon.jpg
+    image: assets/images/cell_1.jpg
     text: "Some text here."
     nav: main
 ---
