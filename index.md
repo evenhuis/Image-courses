@@ -14,7 +14,7 @@ sidebar:
 
 A series of workshops run in the Microbial Imaging Facilty.
 
-### [→](_pages/what-is-an-image) What is an image?
+### [→](_pages/What-is-an-image) What is an image?
 
 
 Learn how images are stored and displayed by computers.
