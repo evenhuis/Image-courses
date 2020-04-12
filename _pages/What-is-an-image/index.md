@@ -5,7 +5,7 @@ layout: single
 sidebar:
   - title: "What is an image?"
     image: assets/images/cell_1.jpg
-    text: "Some text here."
+    #text: "Some text here."
     nav: what-is-an-image
 ---
 

@@ -2,8 +2,9 @@
 title: "Images as spreadsheets"
 type: pages
 layout: single
+classes: wide
 toc: true
-toc_label: "My Table of Contents"
+toc_label: "Images as spreadsheets"
 sidebar:
   - title: "Introduction"
     image: assets/images/cell_1.jpg
@@ -16,7 +17,7 @@ To make this connection we will open an image in Fiji, save it as table of numbe
 
 
 
-## Open the image
+## Opening an image
 
 1. Open the image. In the Fiji menu `File > Open` and find the file  `cell.tif`
 2. Increase the zoom level until you can see the pixels (`+`)
@@ -25,7 +26,7 @@ To make this connection we will open an image in Fiji, save it as table of numbe
 
 ![](mouse_over.png)
 
-## Export the image as numbers
+## Exporting an image as numbers
 
 ### Export from Fiji:
 1. Go to `File > Save As > Image Sequence...`
