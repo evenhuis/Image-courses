@@ -6,7 +6,7 @@ sidebar:
   - title: "Introduction"
     image: assets/images/cell_1.jpg
     text: "Some text here."
-    nav: main
+    nav: what-is-an-image
 ---
 
 Goals:
