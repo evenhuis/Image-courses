@@ -21,4 +21,6 @@ Learn how images are stored and displayed by computers.
 
 ### Introduction to Fluorescence Microscopy
 
+### [→](_pages/Microscope-to-Publication) Microscope to Publication
+
 
