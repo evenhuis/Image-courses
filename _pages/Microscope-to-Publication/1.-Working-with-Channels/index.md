@@ -12,11 +12,7 @@ sidebar:
     nav: microscope-to-publication
 ---
 
-
-<video width="480" height="320" controls="controls">
-  <source src="./1.-Working-with-Channels.mp4" type="video/mp4">
-</video>
-
+{% include video id="uDHxzF4t1nc" provider="youtube" %}
 
 
 ## Open and make a grid
