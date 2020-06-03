@@ -5,31 +5,31 @@ main:
 
 what-is-an-image:
   - title: "Introduction"
-    url: ./_pages/What-is-an-image/Introduction
+    url: _pages/What-is-an-image/Introduction
   - title: "Images as spreadsheets"
-    url: ./_pages/What-is-an-image/Images-as-spreadsheets
+    url: _pages/What-is-an-image/Images-as-spreadsheets
     children:
      - title: "Opening an image"
-       url: ./_pages/What-is-an-image/Images-as-spreadsheets#opening-an-image
+       url: _pages/What-is-an-image/Images-as-spreadsheets#opening-an-image
      - title: "Exporting an image as numbers"
-       url: ./_pages/What-is-an-image/Images-as-spreadsheets#export-the-image-as-numbers
+       url: _pages/What-is-an-image/Images-as-spreadsheets#export-the-image-as-numbers
 
 microscope-to-publication:
    - title: Microscope to Publication
      url: ./_pages/Microscope-to-Publication
      children:
         - title: "1. Working with Channels"
-          url: ./_pages/Microscope-to-Publication/1.-Working-with-Channels
+          url: _pages/Microscope-to-Publication/1.-Working-with-Channels
         - title: "2. Comparing Channels"
-          url: ./_pages/Microscope-to-Publication/2.-Comparing-Channels
+          url: _pages/Microscope-to-Publication/2.-Comparing-Channels
         - title: "3. ROIs from Fiji"
-          url: ./_pages/Microscope-to-Publication/3.-ROIs-from-Fiji
+          url: _pages/Microscope-to-Publication/3.-ROIs-from-Fiji
         - title: "4. Timelapses"
-          url: ./_pages/Microscope-to-Publication/4.-Timelapses
+          url: _pages/Microscope-to-Publication/4.-Timelapses
         - title: "5. Slides"
-          url: ./_pages/Microscope-to-Publication/5.-Slides
+          url: _pages/Microscope-to-Publication/5.-Slides
         - title: "6. Z-stack detail"
-          url: ./_pages/Microscope-to-Publication/6.-Z-stack-detail
+          url: _pages/Microscope-to-Publication/6.-Z-stack-detail
         - title: "7. Complex Panel"
-          url: ./_pages/Microscope-to-Publication/7.-Complex-Panel
+          url: _pages/Microscope-to-Publication/7.-Complex-Panel
   
