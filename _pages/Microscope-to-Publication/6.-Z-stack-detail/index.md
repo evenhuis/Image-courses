@@ -7,15 +7,12 @@ toc: true
 toc_label: "Microscope to Publication"
 sidebar:
   - title: "Z-stack detail"
-    image: assets/images/cell_1.jpg
+    image: assets/images/m2p/Zstack_thumb.png
     #text: "Some text here."
     nav: microscope-to-publication
 ---
 
-<video width="480" height="320" controls="controls">
-  <source src="6.-Zstack.mp4" type="video/mp4">
-</video>
-
+{% include video id="nqNjkKHurFY" provider="youtube" %}
 
 ## Create slices in Fiji
 * Connect to OMERO in Fiji

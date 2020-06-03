@@ -6,7 +6,7 @@ header:
   overlay_image: assets/images/splash_1.jpg
 sidebar:
   - title: "MIF workshops"
-    nav: main
+    #nav: main
 
 ---
 

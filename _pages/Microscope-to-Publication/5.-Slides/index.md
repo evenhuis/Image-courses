@@ -7,14 +7,12 @@ toc: true
 toc_label: "Microscope to Publication"
 sidebar:
   - title: "Slides"
-    image: assets/images/cell_1.jpg
+    image: assets/images/m2p/slide_thumb.png
     #text: "Some text here."
     nav: microscope-to-publication
 ---
 
-<video width="480" height="320" controls="controls">
-  <source src="5.-Slides.mp4" type="video/mp4">
-</video>
+{% include video id="-QAXhMQ7dow" provider="youtube" %}
 
 ## Create Regions of Interest (ROIs)
 

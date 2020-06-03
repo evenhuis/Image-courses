@@ -6,16 +6,14 @@ classes: wide
 toc: true
 toc_label: "Microscope to Publication"
 sidebar:
-  - title: "TimeLapse"
-    image: assets/images/cell_1.jpg
+  - title: "Timelapse"
+    image: assets/images/m2p/timelapse_thumb.png
     #text: "Some text here."
     nav: microscope-to-publication
 ---
 
 
-<video width="480" height="320" controls="controls">
-  <source src="./4.-Timelapse.mp4" type="video/mp4">
-</video>
+{% include video id="Tbc-REFtP0M" provider="youtube" %}
 
 # Timelapse
 

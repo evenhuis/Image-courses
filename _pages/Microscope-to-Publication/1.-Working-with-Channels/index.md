@@ -7,12 +7,12 @@ toc: true
 toc_label: "Working with Channels"
 sidebar:
   - title: "Working with Channels"
-    image: assets/images/cell_1.jpg
+    image: assets/images/m2p/working_channels_thumb.png
     #text: "Some text here."
     nav: microscope-to-publication
 ---
 
-{% include video id="uDHxzF4t1nc" provider="youtube" %}
+{% include video id="1VNkps893DM" provider="youtube" %}
 
 
 ## Open and make a grid

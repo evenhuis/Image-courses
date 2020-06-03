@@ -7,14 +7,13 @@ toc: true
 toc_label: "Microscope to Publication"
 sidebar:
   - title: "Importing ROIs from Fiji"
-    image: assets/images/cell_1.jpg
+    image: assets/images/m2p/fiji_roi_thumb.png
     #text: "Some text here."
     nav: microscope-to-publication
 ---
 
-<video width="480" height="320" controls="controls">
-  <source src="3.-ROIs-from-Fiji.mp4" type="video/mp4">
-</video>
+{% include video id="2goZmZANWVc" provider="youtube" %}
+
 
 ## Create the ROI in FIJI
 1. Open Fiji (Windows only at the moment)

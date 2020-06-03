@@ -1,7 +1,7 @@
 main:
-  - title: "What is an image?"
-    url: ./_pages/What-is-an-image/
-  - title: "Introduction to fluorescence microscopy"
+   #  - title: "What is an image?"
+   # url: ./_pages/What-is-an-image/
+   #- title: "Introduction to fluorescence microscopy"
 
 what-is-an-image:
   - title: "Introduction"
