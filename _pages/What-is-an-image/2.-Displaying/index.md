@@ -4,13 +4,14 @@ type: pages
 layout: single
 classes: wide
 toc: true
-toc_label: "Images as spreadsheets"
+toc_label: "Displaying Images"
 sidebar:
-  - title: "Introduction"
-    image: image: _pages/What-is-an-image/2.-Displaying/thumb.png
-    #text: "Some text here."
+  - title: "Displaying Images"
+    image: _pages/What-is-an-image/2.-Displaying/thumb.png
     nav: what-is-an-image
 ---
+
+
 
 Images are stored on the computer as an array of numbers which can thought of as a spreadsheet. 
 To make this connection we will open an image in Fiji, save it as table of numbers and open in Excel. 
