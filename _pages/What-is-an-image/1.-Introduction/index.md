@@ -17,6 +17,4 @@ Goals:
 * How to open images in Fiji
 * Navigating, viewing and inspecting images 
 
-<video width="480" height="320" controls="controls">
-  <source src="Intro.mp4" type="video/mp4">
-</video>
+{% include video id="mOgBKH9PaVw" provider="youtube" %}

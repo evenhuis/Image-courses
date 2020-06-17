@@ -1,5 +1,5 @@
 ---
-title: "Images as spreadsheets"
+title: "Displaying Images"
 type: pages
 layout: single
 classes: wide
@@ -41,22 +41,56 @@ To make this connection we will open an image in Fiji, save it as table of numbe
 
 You will now see a table of numbers in Excel. 
 
-<video width="480" height="320" controls="controls">
-  <source src="opening_in_excel.mp4" type="video/mp4">
-</video>
+3: Select all cells
 
+4: Adjust to cell size to have same width and height (this makes the pixels square)
+
+{% include video id="IS0jLBdYum4" provider="youtube" %}
 
 ## Look Up Tables 
 
-To display the image on the screen the computer colors or shades each pixel based on it's value. 
-The rule to determine what color to shade a pixel is known as the Look Up Table.
+To display the image on the screen the computer colours or shades each pixel based on its value. 
+The rule to determine what colour to shade a pixel is known as the Look Up Table.
 
 ### Creating a Look Up Table in Excel
 
-We will create a Look Up Table in Excel using the Conditional Formating feature.
+We will create a Look Up Table in Excel using the Conditional Formatting feature.
 
+#### Grayscale LUT
 1. Select all the cells
-2. Click on `Format > Conditional Formating`
-3. Click on the plus or `add new rule`
+2. Click on `Format > Conditional Formatting`
+3. Click on the plus or `Add new rule`
+	 * click plus
+	 * Set the type to `Number`
+    * set minimum value 0 : color black
+    * set maximum number 255 : color white
+    
+4. Set zoom level 10
+    
+![](2-color-rule.png)
+
+
+![](BW_lookup.png)
+
+#### Color LUTs
+In Fiji:
+
+* `Image > Look Up Tables > Rainbow RGB`
+
+In Excel:
+
+* Conditional formatting
+* Edit rule
+* 3 color scale. set
+    * value 0 Red
+    * percentile 25% Orange
+    * value 255 Green
+
+![](ROG_lookup.png)
+
+    
+***Keypoint:*** Brightness and contrast only change the way the image is presented, not the pixel information
+
+{% include video id="_Gp6dHPQ7rI" provider="youtube" %}
 
 

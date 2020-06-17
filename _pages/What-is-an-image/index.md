@@ -7,9 +7,41 @@ sidebar:
     image: assets/images/cell_1.jpg
     #text: "Some text here."
     nav: what-is-an-image
+
+
+feature_row1:
+  - image_path: /_pages/What-is-an-image/1.-Introduction/thumb.png
+    alt: "Outline of topics"
+    title: "Introduction"
+    excerpt: "Topics covered"
+    url: "_pages/What-is-an-Image/1.-Introduction"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
+  - image_path: /_pages/What-is-an-image/2.-Displaying/thumb.jpg
+    alt: "Lookup Tables, line profiles"
+    title: "Displaying images"
+    excerpt: "How images are stored and displayed"
+    url: "_pages/What-is-an-Image/2.-Displaying"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
+  - image_path: /_pages/What-is-an-image/3.-Measuring/thumb.png
+    alt: "Lookup Tables, line profiles"
+    title: "Measuring on images"
+    excerpt: "Ways to view pixel data"
+    url: "_pages/What-is-an-Image/3.-Measuring"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
 ---
 
-### [Introduction](Introduction/index.md)
+{% include feature_row id="feature_row1"   %}
 
-### [Images as spreadsheets](Images-as-spreadsheets/index.md)
+### [1. Introduction](1.-Introduction/index.md)
+
+### [Images as spreadsheets](2.-Displaying/index.md)
+
+### [Measureing](3.-Measuring/index.md)
+
 

@@ -4,15 +4,24 @@ main:
    #- title: "Introduction to fluorescence microscopy"
 
 what-is-an-image:
-  - title: "Introduction"
-    url: _pages/What-is-an-image/Introduction
-  - title: "Images as spreadsheets"
-    url: _pages/What-is-an-image/Images-as-spreadsheets
+  - title: "What is an image?"
+    url: _pages/What-is-an-image
     children:
-     - title: "Opening an image"
-       url: _pages/What-is-an-image/Images-as-spreadsheets#opening-an-image
-     - title: "Exporting an image as numbers"
-       url: _pages/What-is-an-image/Images-as-spreadsheets#export-the-image-as-numbers
+     - title: "1. Introduction"
+       url: _pages/What-is-an-image/1.-Introduction
+     - title: "2. Displaying"
+       url: _pages/What-is-an-image/2.-Displaying
+     - title: "3. Measuring"
+       url: _pages/What-is-an-image/3.-Measuring
+     - title: "4. Channels"
+       url: _pages/What-is-an-image/4.-Channels
+     - title: "5. Depth and time"
+       url: _pages/What-is-an-image/5.-Depth-and-Time
+     - title: "6. Bioformats"
+       url: _pages/What-is-an-image/6.-Bioformats
+
+
+       
 
 microscope-to-publication:
    - title: Microscope to Publication
