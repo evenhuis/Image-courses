@@ -38,10 +38,3 @@ feature_row1:
 
 {% include feature_row id="feature_row1"   %}
 
-### [1. Introduction](1.-Introduction/index.md)
-
-### [Images as spreadsheets](2.-Displaying/index.md)
-
-### [Measureing](3.-Measuring/index.md)
-
-
