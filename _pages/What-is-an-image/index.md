@@ -14,7 +14,7 @@ feature_row1:
     alt: "Outline of topics"
     title: "Introduction"
     excerpt: "Topics covered"
-    url: "_pages/What-is-an-Image/1.-Introduction"
+    url: "_pages/What-is-an-image/1.-Introduction"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
@@ -22,7 +22,7 @@ feature_row1:
     alt: "Lookup Tables, line profiles"
     title: "Displaying images"
     excerpt: "How images are stored and displayed"
-    url: "_pages/What-is-an-Image/2.-Displaying"
+    url: "_pages/What-is-an-image/2.-Displaying"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
@@ -30,7 +30,7 @@ feature_row1:
     alt: "Lookup Tables, line profiles"
     title: "Measuring on images"
     excerpt: "Ways to view pixel data"
-    url: "_pages/What-is-an-Image/3.-Measuring"
+    url: "_pages/What-is-an-image/3.-Measuring"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
