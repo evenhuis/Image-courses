@@ -7,7 +7,7 @@ toc: true
 toc_label: "Images as spreadsheets"
 sidebar:
   - title: "Introduction"
-    image: assets/images/cell_1.jpg
+    image: image: _pages/What-is-an-image/2.-Displaying/thumb.png
     #text: "Some text here."
     nav: what-is-an-image
 ---
